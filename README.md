@@ -4,11 +4,12 @@
 
 ##### Example of errors/exception
 - 'ValueError'
-- 'Syntax Error'
+- 'SyntaxError'
 - 'TypeError'
 - 'AttributeError'
 - 'KeyError'
-- 'ZeroDivisionError: divison by zero'
+- `ZeroDivisionError`
+- `FileNotFoundError`
 
 ##### File permissions
 
